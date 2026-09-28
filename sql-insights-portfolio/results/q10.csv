@@ -1,0 +1,4 @@
+discount_band,order_lines,avg_profit_per_line,total_profit
+No discount,4798,66.9,320987.6
+Low discount (<=20%),3803,26.5,100785.47
+High discount (>20%),1393,-97.18,-135376.06
